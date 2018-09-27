@@ -1,10 +1,10 @@
 # HinsAI
 
-<p>HinS Framework &amp; Artificial Intelligence include 3 main features.</p>
+<p>HinS Framework &amp; Artificial Intelligence include 2 main features.</p>
 <p>&nbsp;</p>
 <ul>
-<li>HinS Interpreter &amp; Compiler with greate algorithm</li>
-<li>HinS-ORM (Object relation Mapping)</li>
+
+<li>HinS-V-ORM (Object Virtual relation Mapping)</li>
 <li>HinS-AI, (just like windows has Cortana)</li>
 </ul>
 <p>This application work like a plugin for a developer. This application run behind the project of developer to keep-track of each and every code of project.</p>
