@@ -9,7 +9,7 @@
 <li>HinS-AI, (just like windows has Cortana)</li>
 </ul>
 <p>This application work like a plugin for a developer. This application run behind the project of developer to keep-track of each and every code of project.</p>
-<p>It also has an &ldquo;hi-nS Compiler and Interpreter&rdquo; that will convert the hi-nS Domain into any programming language like Java, PHP, JavaScript, Html etc.,</p>
+
 <p>The HinS-ORM Object-Relation Mapping to map Object with Database Model.</p>
 <p>This framework is also work like an Automation Tool (i.e HinS-AI) that helps the developer to generate his code automatically.</p>
 <ul>
